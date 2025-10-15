@@ -1,4 +1,4 @@
-# Login Notification Userscript for UNRAID
+# Login Notification User Script for UNRAID
 
 A script to be run in Userscripts that checks the syslog for login attempts.
 
